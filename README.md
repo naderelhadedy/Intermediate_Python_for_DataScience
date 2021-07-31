@@ -1,2 +1,2 @@
 # Intermediate_Python_for_DataScience
-Different Assignments
+These assignments are about dealing with data by various libraries or packages
